@@ -25,6 +25,7 @@ body {
     background-color: rgb(178, 219, 107);
     align-items: center;
     padding-bottom: 5px;
+    margin: 5px;
 }
 
 #fotorostro {
@@ -48,4 +49,6 @@ body {
 }
 .div2{
     background-color: rgb(25, 134, 25);
+    padding: 5px;
+    margin: 5px;
 }
